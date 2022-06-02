@@ -1,0 +1,59 @@
+-Wasserkraft als erneuerbare Energieressource: Total technically feasible hydropower potential?
+  -6281 GW
+  -4437 GW
+  -3436 GW
+-6.Wasserkraft als erneuerbare Energieressource: Bereits ausgebaute Leistung?
+  -1198 GW
+  -918 GW
+  -737 GW
+-7.Projektdefinition - Erste Schritte bei der Projektentwicklung eines Wasserkraftwerks: Zu welchen der folgende Punkte sollten Information eingeholt werden?
+  -Hydrologische Daten
+  -Geologie
+  -Verfügbarkeit Uranbrennstäbe
+  -Netzanbindung
+  -Mercedes-Baumaschinenlandesvertretung
+  -Stakeholderpositionen
+  -Fitrst Class Catering Firmen
+  -Umweltbiosphäre
+-8.Die Kraftwerke an der Donau in Österreich bezeichnet man als...
+  -Pumpspeicherkraftwerke
+  -Laufkraftwerke
+  -Kavernenkraftwerke
+-9.Gesamtwirkungsgrad Wasserkraftwerk: grobe Abschätzung?
+  -10-15%
+  -35-45%
+  -85-92%
+-10.Spezifische Kosten: Wie verteilen sich bei einem Niederdruckkraftwerk üblicherweise die Kosten zwischen Bau und E&M-Ausrüstung?
+  -20% Bau / 80% E&M-Ausrüstung
+  -50% Bau / 50% E&M-Ausrüstung
+  -80% Bau / 20% E&M-Ausrüstung
+-11.Für eine erste grobe Abschätzung verwendet man Erfahrungswerte von spezifischen Kosten EUR/kW installierter Kraftwerksleistung. Wie hoch können diese für ein Kraftwerk mittlerer Größe in Zentraleuropa mit einer Leistung von 200 MW ca sein?
+  -700 EUR/kW
+  -1000 EUR/kW
+  -1400 EUR/kW
+-12.Was sind u.a. Themen der Hydropower Sustainability Guidelines?
+  -Resettlement
+  -Culture Heritage
+  -Water Quality
+  -F1-Motorsports
+  -Climate Change Mitigation
+  -Financial Viability
+-13.Welche Finanzierungsformen von Wasserkraftwerken sind üblich?
+  -Finanzierung durch Supranationale Organisationen
+  -ECA-Kredite
+  -Kommerzielle Bankenkredite
+  -Lieferantenkredite
+  -Eigenfinanzierung durch Eigenkapital
+-14.Welche Zahlungsbesicherungsinstrumente gibt es?
+  -Bankgarantien
+  -Ausreichende Kundenbonität
+  -Akkusativ
+  -Absicherungen bei Versicherungen
+  -Akkreditiv
+-15.Die Österreichische Kontrollbank deckt Liefergeschäfte von Firmen, die...
+  -...Firmensitz und Geschäftstätigkeit in Österreich haben.
+  -...nur ein Bankkonto in Österreich haben.
+  -...nur in Österreich ansässig sind.
+-16.Welcher IRR ist für einen privaten Wasserkraftinvestor interessant?
+  -3%
+  -12%
